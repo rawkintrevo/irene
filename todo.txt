@@ -1,0 +1,8 @@
+TODO:
+
+*   species.cycle not passing values back to the museum (need to learn how environments work in R)
+*   summary and plot methods
+*   pressure testing
+*   export function
+*   validation sequence
+*   package it up
